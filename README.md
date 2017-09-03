@@ -16,9 +16,6 @@ Creative Technologist
 - http://prty.nyc/
 
 Web Studio
--
--
--
--
+
 
 My site : https://laurent.la
