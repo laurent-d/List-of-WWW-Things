@@ -1,21 +1,69 @@
-List of WWW. things
+#List of WWW. things#
 
 CSS
 - Fluid font size http://madebymike.com.au/writing/fluid-type-calc-examples/
 - Flex without Flex http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox
 
-Ideas
+Good & Simple Articles
+- https://mxb.at/blog/
+- 
+-
+
+Products Ideas
 - http://jessicahische.is/helpingyouanswer Client mail generator
 - https://3dro.ps Good Ui Studio
+- https://chris.bolin.co/offline/
+-
+-
 
-UX
+UX & Human Behaviors
 - https://www.nngroup.com/articles Ux Research
+- https://www.nirandfar.com/
+- 
+-
 
-Creative Technologist
+Creative Technologists
 - http://www.random.studio/
 - http://prty.nyc/
+-
+-
 
-Web Studio
+Web Studios
+- https://futurecorp.london/
+- https://intmagic.com/
+- https://area17.com/
+- 
+-
+
+Web inspiration sources :
+- https://www.are.na/joseph-cohen/cool-websites-2017
+- https://www.siteinspire.com/
+- http://klikkentheke.com/
+- http://thegallery.io/
+-
+-
+
+Font Studios
+- http://mediumextrabold.com/
+- https://www.swisstypefaces.com/
+- https://klim.co.nz/
+- https://vllg.com/
+-
+-
+
+Font Index
+- http://fontreviewjournal.com/
+- http://type-foundries-archive.com/
+- http://open-foundry.com/hot30
+- http://usemodify.com/
+-
+-
+
+Restaurants Article 
+- https://www.nytimes.com/interactive/2017/08/29/dining/new-york-restaurants-fall-openings.html
+- https://www.nytimes.com/2017/08/25/dining/restaurant-software-analytics-data-mining.html
+-
+-
 
 
-My site : https://laurent.la
+An other website : https://laurent.la
