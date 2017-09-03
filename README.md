@@ -69,7 +69,7 @@ Restaurants Articles
 - https://www.nytimes.com/interactive/2017/08/29/dining/new-york-restaurants-fall-openings.html
 - https://www.nytimes.com/2017/08/25/dining/restaurant-software-analytics-data-mining.html
 - https://www.nytimes.com/2015/07/25/your-money/how-to-connive-a-reservation-at-that-oh-so-popular-restaurant.html
--
+- https://medium.com/salido-digest
 
 
 An other website : https://laurent.la
