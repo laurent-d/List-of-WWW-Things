@@ -43,7 +43,7 @@ Web inspiration sources :
 -
 -
 
-Font Studios
+Fonts Studios
 - http://mediumextrabold.com/
 - https://www.swisstypefaces.com/
 - https://klim.co.nz/
@@ -51,7 +51,7 @@ Font Studios
 -
 -
 
-Font Index
+Fonts Index
 - http://fontreviewjournal.com/
 - http://type-foundries-archive.com/
 - http://open-foundry.com/hot30
@@ -59,7 +59,12 @@ Font Index
 -
 -
 
-Restaurants Article 
+Essential Mac Apps:
+- https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock
+-
+-
+
+Restaurants Articles
 - https://www.nytimes.com/interactive/2017/08/29/dining/new-york-restaurants-fall-openings.html
 - https://www.nytimes.com/2017/08/25/dining/restaurant-software-analytics-data-mining.html
 -
