@@ -32,7 +32,7 @@ Web Studios
 - https://futurecorp.london/
 - https://intmagic.com/
 - https://area17.com/
-- 
+- http://www.phillippeters.de/
 -
 
 Web inspiration sources :
