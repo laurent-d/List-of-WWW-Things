@@ -40,7 +40,7 @@ Web inspiration sources :
 - https://www.siteinspire.com/
 - http://klikkentheke.com/
 - http://thegallery.io/
--
+- http://www.open-directory.co/
 -
 
 Fonts Studios
