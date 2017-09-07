@@ -82,5 +82,6 @@ http://pollenlondon.com/playing-fashion
 https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a
 https://theploughatlupton.co.uk/book-a-table
 https://www.jardan.com.au/contact/
+https://github.com/metafizzy/flickity/issues/26
 
 An other website : https://laurent.la
