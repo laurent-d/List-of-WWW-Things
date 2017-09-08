@@ -83,5 +83,6 @@ https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simpl
 https://theploughatlupton.co.uk/book-a-table
 https://www.jardan.com.au/contact/
 https://github.com/metafizzy/flickity/issues/26
+https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3
 
 An other website : https://laurent.la
