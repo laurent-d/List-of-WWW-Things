@@ -39,7 +39,7 @@ Web Studios
 -
 -
 
-Web inspiration sources :
+Web inspiration sources
 - https://www.are.na/joseph-cohen/cool-websites-2017
 - https://www.siteinspire.com/
 - http://klikkentheke.com/
@@ -64,7 +64,7 @@ Fonts Index
 -
 -
 
-Essential Mac Apps:
+Essential Mac Apps
 - https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock
 -
 -
@@ -76,7 +76,7 @@ Restaurants Articles
 - https://medium.com/salido-digest
 
 
-Need to sort:
+Need to sort
 - http://www.oeo.dk/
 - http://matthewvernon.co/work/semi-permanent/
 - http://pollenlondon.com/playing-fashion
