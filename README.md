@@ -76,6 +76,7 @@ Restaurants Articles
 - https://medium.com/salido-digest
 
 
+Need to sort:
 - http://www.oeo.dk/
 - http://matthewvernon.co/work/semi-permanent/
 - http://pollenlondon.com/playing-fashion
